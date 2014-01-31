@@ -1,32 +1,24 @@
 # Awesome Store
 
-This application is based on RailsCast #417.
+This exercise is based on instructions from RailsCast #417.
 
 ### Author:  Doug MacDowell
 
 ### Installation
 
-TBD - *This is a work in progress for a college programming class.*
+*This is the result of an exercise in learning Foundation to build a Rails application.*
+
+To learn more about Foundation, check out http://foundation.zurb.com/docs
 
 ## Usage
 
-After starting the app, navigate to __localhost:3000/products__ in your browser to see a **Listing** of current products.
+After starting the app, navigate to __localhost:3000/products__ in your browser.
 
-Click the __New Post__ link to add a post.
-
-Click the __Destroy__ link to delete a post.
-
-### Link to screenshot of passing tests:
-
-https://www.dropbox.com/s/0mvs9w28u50timl/Portfolio%20screenshot%20Week3%202014-01-27%2020%3A41%3A26.png
-
-### Link to screenshot of sample post index page:
-
-https://www.dropbox.com/s/nqzfsepdx1hyfvf/Sample%20posting%20index%202014-01-27%2021%3A18%3A30.png
+Click the __New Product__ button to move to new production creation page.
 
 ### Contributing
 
-*If this were a real-world project, follow these instructions to contribute:*
+*If this were an actual real-world project, follow these instructions to contribute:*
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
