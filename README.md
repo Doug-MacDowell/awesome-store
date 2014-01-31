@@ -1,6 +1,6 @@
 # Awesome Store
 
-This exercise is based on instructions from RailsCast #417.
+This exercise is based on instructions from __RailsCast #417__.
 
 ### Author:  Doug MacDowell
 
@@ -8,13 +8,15 @@ This exercise is based on instructions from RailsCast #417.
 
 *This is the result of an exercise in learning Foundation to build a Rails application.*
 
-To learn more about Foundation, check out http://foundation.zurb.com/docs
+To learn more about Foundation, check out <http://foundation.zurb.com/docs>
 
 ## Usage
 
-After starting the app, navigate to __localhost:3000/products__ in your browser.
++ After starting the app, navigate to __localhost:3000/products__ in your browser.
 
-Click the __New Product__ button to move to new production creation page.
++ Click the __New Product__ button to move to new production creation page.
+
++ Hover your mouse pointer over the word __Price__ to see the tooltip indicating currency.
 
 ### Contributing
 
