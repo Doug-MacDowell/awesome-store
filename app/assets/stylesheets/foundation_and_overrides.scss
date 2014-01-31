@@ -86,7 +86,7 @@ $default-float: left;
 
 // Make sure border radius matches unless we want it different.
 
-// $global-radius: 3px;
+$global-radius: 3px;
 // $global-rounded: 1000px;
 
 // Inset shadow shiny edges and depressions.
@@ -1324,4 +1324,4 @@ $topbar-bg-color: #212D48 !default;
 // $topbar-sticky-class: ".sticky";
 // $topbar-arrows: true; //Set false to remove the triangle icon from the menu item
 
-@import 'foundation';
+@import "foundation";
