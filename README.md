@@ -10,7 +10,7 @@ TBD - *This is a work in progress for a college programming class.*
 
 ## Usage
 
-After starting the app, navigate to __localhost:3000/posts__ in your browser to see a **Listing** of current posts.
+After starting the app, navigate to __localhost:3000/products__ in your browser to see a **Listing** of current products.
 
 Click the __New Post__ link to add a post.
 
